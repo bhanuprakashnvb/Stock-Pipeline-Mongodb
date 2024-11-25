@@ -91,7 +91,6 @@ Our final goal was to recreate the graphs that we find on Google whenever we sea
 ![Res-2](image-11.png?raw=true)
 ![Res-3](image-12.png?raw=true)
 ![Res-4](image-13.png?raw=true)
-<img width="1394" alt="Screenshot 2024-11-24 at 2 37 57 PM" src="https://github.com/user-attachments/assets/493c4466-934e-4a73-88e1-8da4fcd09838">
 
 
 
