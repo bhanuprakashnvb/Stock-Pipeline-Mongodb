@@ -11,11 +11,11 @@ The data being captured from the AlphaVantage API is cleaned (removal of needles
 
 Our final goal was to recreate the graphs that we find on Google whenever we search for stock market data. 
 
-![Google Stocks](image-6.png?raw=true)
+![WhatsApp Image 2024-11-25 at 2 28 34 PM](https://github.com/user-attachments/assets/a29e88d7-198c-4dbd-8d26-d26de976230c)
+
 
 ## Using EC2 Instance to Host Kafka
-
-![EC2 Image](image.png?raw=true)
+![WhatsApp Image 2024-11-25 at 2 28 32 PM](https://github.com/user-attachments/assets/d52ed71e-c2ce-475b-8586-9f324deb03b2)
 
 ## Running Kafka on EC2 Instance
 
@@ -69,28 +69,28 @@ Our final goal was to recreate the graphs that we find on Google whenever we sea
 
 
 ## Using Python to Run a Producer
+![WhatsApp Image 2024-11-25 at 2 28 33 PM](https://github.com/user-attachments/assets/232a4139-4597-4c84-8707-d3a0d9b0eb3d)
+![WhatsApp Image 2024-11-25 at 2 28 33 PM-3](https://github.com/user-attachments/assets/746f6b3e-cb13-4618-8478-e354a7b283ad)
+![WhatsApp Image 2024-11-25 at 2 28 33 PM-2](https://github.com/user-attachments/assets/0825010d-5c5c-41cd-a3da-f3ae89e08c73)
+![WhatsApp Image 2024-11-25 at 2 28 32 PM-3](https://github.com/user-attachments/assets/73fbbe38-2240-4790-a128-8c858b71293a)
+![WhatsApp Image 2024-11-25 at 2 28 32 PM-2](https://github.com/user-attachments/assets/096b8f83-1448-4c02-a75f-687e6555a9f7)
 
-![Producer-1](image-1.png?raw=true)
-![Producer-2](image-2.png?raw=true)
-![Producer-3](image-3.png?raw=true)
-![Producer-4](image-4.png?raw=true)
-![Producer-5](image-5.png?raw=true)
 
 ## Using Python to Run a Consumer
+![WhatsApp Image 2024-11-25 at 2 28 34 PM-3](https://github.com/user-attachments/assets/9b93891f-b136-45fe-84a3-dbeb09451dd2)
+![WhatsApp Image 2024-11-25 at 2 28 34 PM-2](https://github.com/user-attachments/assets/ce4eced6-c527-4685-a147-9635c77cd403)
+![WhatsApp Image 2024-11-25 at 2 28 33 PM-4](https://github.com/user-attachments/assets/ea42f0ca-6003-42ae-9d2c-1586f2a6bf12)
 
-![Consumer-1](image-7.png?raw=true)
-![Consumer-2](image-8.png?raw=true)
-![Consumer-3](image-9.png?raw=true)
 
 
 ## Final Results
 
-![Res-6](image-15.png?raw=true)
-![Res-5](image-14.png?raw=true)
-![Res-1](image-10.png?raw=true)
-![Res-2](image-11.png?raw=true)
-![Res-3](image-12.png?raw=true)
-![Res-4](image-13.png?raw=true)
+![WhatsApp Image 2024-11-25 at 2 28 34 PM-5](https://github.com/user-attachments/assets/7fff7925-aa0c-4817-9418-f174e1c701aa)
+![WhatsApp Image 2024-11-25 at 2 28 34 PM-4](https://github.com/user-attachments/assets/0c0b70dc-c845-4a29-856c-82d2f4383116)
+![WhatsApp Image 2024-11-25 at 2 28 34 PM-3](https://github.com/user-attachments/assets/a7dde8e9-8c13-4885-94bd-d34fb3bcaa2a)
+![WhatsApp Image 2024-11-25 at 2 28 34 PM-2](https://github.com/user-attachments/assets/01099da8-aaec-42d3-96c1-4bdb29ac854e)
+![WhatsApp Image 2024-11-25 at 2 28 35 PM](https://github.com/user-attachments/assets/8cef77a7-24c1-4dd3-b15f-bc68a462c36d)
+![WhatsApp Image 2024-11-25 at 2 28 33 PM](https://github.com/user-attachments/assets/993d6c02-ac79-4607-a654-b7a3fa03cc2f)
 
 
 
