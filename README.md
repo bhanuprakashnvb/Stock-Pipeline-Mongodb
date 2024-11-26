@@ -69,11 +69,14 @@ Our final goal was to recreate the graphs that we find on Google whenever we sea
 
 
 ## Using Python to Run a Producer
-![WhatsApp Image 2024-11-25 at 2 28 33 PM](https://github.com/user-attachments/assets/232a4139-4597-4c84-8707-d3a0d9b0eb3d)
-![WhatsApp Image 2024-11-25 at 2 28 33 PM-3](https://github.com/user-attachments/assets/746f6b3e-cb13-4618-8478-e354a7b283ad)
 ![WhatsApp Image 2024-11-25 at 2 28 33 PM-2](https://github.com/user-attachments/assets/0825010d-5c5c-41cd-a3da-f3ae89e08c73)
 ![WhatsApp Image 2024-11-25 at 2 28 32 PM-3](https://github.com/user-attachments/assets/73fbbe38-2240-4790-a128-8c858b71293a)
 ![WhatsApp Image 2024-11-25 at 2 28 32 PM-2](https://github.com/user-attachments/assets/096b8f83-1448-4c02-a75f-687e6555a9f7)
+![WhatsApp Image 2024-11-25 at 2 28 33 PM](https://github.com/user-attachments/assets/232a4139-4597-4c84-8707-d3a0d9b0eb3d)
+![WhatsApp Image 2024-11-25 at 2 28 33 PM-3](https://github.com/user-attachments/assets/746f6b3e-cb13-4618-8478-e354a7b283ad)
+
+
+
 
 
 ## Using Python to Run a Consumer
